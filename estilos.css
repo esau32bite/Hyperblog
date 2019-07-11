@@ -14,6 +14,8 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 8px 10px;
+    border: 5px solid white;
+    border-bottom: 0px;
 }
 
 #cabecera #tagline {
@@ -26,18 +28,21 @@ body{
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #fff;
+    border: 70px solid #3333aa;
     margin: 0 auto;
+    font-size: 35px;
 }
 
 #container h1{
-    font-size: 20px;
+    font-size: 40px;
     margin: 0;
 }
 
 #post{
     background: #000;
     padding: 1em;
+    border: 5px solid white;
+    border-top: 0px;
 }
 
 #suscription{
