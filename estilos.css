@@ -54,5 +54,12 @@ body{
     display: inline;
     padding: 5px;
     text-decoration: none;
-    color: #1e1f24;
+    color: white;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
